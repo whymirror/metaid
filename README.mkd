@@ -1,0 +1,8 @@
+Fetched mostly from [archive.org's Wayback Machine][wm].
+
+The library is how it was on July 16, 2006. The [Wayback Machine][wm] doesn't have a later version. You can access the page [here][svn].
+
+Copyright (C) 'why the lucky stiff' 2005-2009
+
+[wm]: http://www.archive.org/web/web.php "Internet Archive: Wayback Machine"
+[svn]: http://web.archive.org/web/20060716111950/http://code.whytheluckystiff.net/svn/metaid/trunk/metaid.rb
