@@ -1,0 +1,3 @@
+= _why's metaid
+
+MetAid is a tiny library for aiding metaprogramming.
