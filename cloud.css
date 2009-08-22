@@ -1,0 +1,269 @@
+BODY {
+    color: #866;
+    margin: 0px 5px;
+    padding: 0px;
+    font: normal 12px/13px verdana;
+}
+ 
+A { color: #788; text-decoration: none; border-bottom: dotted #003366 1px; }
+A:link { color: #788; text-decoration: none; border-bottom: dotted #003366 1px; }
+A:visited { color: #788; text-decoration: none; border-bottom: dotted #003366 1px; }
+A:active { background-color: #546; color: white; }
+A:hover { background-color: #546; color: white; }
+ 
+A.img,
+A.img:link,
+A.img:visited,
+A.img:active,
+A.img:hover { color: #788; border: 0; text-decoration: none; }
+A img { border:none; }
+ 
+acronym, abbr {
+    border-bottom: 1px dotted #222;
+    font-style: normal;
+    cursor: help;
+}
+ 
+/* Home page blocks */
+#home {
+    text-align: left;
+    width: 938px;
+}
+ 
+#left {
+    float: left;
+    margin: 0px;
+    padding: 0px;
+    width: 698px;
+}
+ 
+/* basic local links, links off-side */
+#home #sidebarA {
+    background: url(/i.home/why.net-clouds.left.jpg) no-repeat;
+    padding: 330px 0px 0px 0px;
+    width: 135px;
+    clear: none;
+}
+ 
+* html #home #sidebarA {
+    margin-right: -3px;
+}
+ 
+.sidebarBox {
+    font-family: courier, fixed;
+    font-size: 20pt;
+    line-height: 120%;
+    padding: 0px 22px 10px 12px;
+    text-align: center;
+}
+ 
+.sidebarBox a {
+    background-color: #f3f6f9;
+    text-decoration: none;
+    border: none;
+}
+.sidebarBox a:hover {
+    background: url(/i.home/wizzyhover.gif);
+}
+ 
+#home #main {
+    background: url(/i.home/why.net-clouds.mid.jpg) no-repeat;
+    color: #436;
+    float: right;
+    margin-left: -3px;
+    padding: 450px 0px 0px 0px;
+    width: 563px;
+}
+ 
+#blog {
+    width: 698px;
+    overflow: hidden;
+}
+ 
+/* sidebar b: assorted featured links */
+#home #sidebarB {
+    background: url(/i.home/why.net-clouds.right.jpg) no-repeat;
+    font-size: 10pt;
+    line-height: 120%;
+    float: right;
+    margin: 0px;
+    padding: 356px 25px 0px 0px;
+    width: 215px;
+}
+ 
+* html #home #sidebarB {
+    width: 240px;
+}
+ 
+#sidebarBeLow {
+    padding: 42px 0px 70px 10px;
+    border-left: solid 1px #3d2e49;
+}
+ 
+#sidebarB p {
+    padding: 10px;
+}
+ 
+#sidebarB p {
+    font: normal 12px/13px arial;
+    padding: 6px 16px 6px 10px;
+    margin: 0px;
+}
+#overlay {
+    color: #E2E8D8;
+}
+#overlay h2 {
+    font: normal 12px/13px arial;
+    color: #FFE8D8;
+    padding-left: 22px;
+}
+#overlay a,
+#overlay a:link,
+#overlay a:visited,
+#overlay a:active
+{
+    color: #FFE8D8;
+    text-decoration: none;
+}
+#overlay a:hover
+{
+    color: white;
+}
+ 
+/* deeper page layout */
+#deep {
+    background: url(/i.home/why.net-deep.header.jpg) no-repeat;
+    text-align: left;
+    width: 938px;
+    padding-bottom: 145px;
+}
+ 
+#deep #blog {
+    padding-top: 145px;
+}
+ 
+#deep #sidebarB {
+    float: right;
+    margin: 0px;
+    width: 240px;
+}
+ 
+* html #deep #sidebarB {
+    width: 240px;
+}
+ 
+#deep #overlay {
+    text-align: right;
+}
+ 
+#deep #overlay h2, #deep #overlay p {
+    margin: 0px;
+    padding: 8px 10px 0px 0px;
+}
+ 
+/* blog formatting */
+#main A { color: #003366; text-decoration: none; border-bottom: dotted #003366 1px; }
+#main A:link { color: #003366; text-decoration: none; border-bottom: dotted #003366 1px; }
+#main A:visited { color: #003366; text-decoration: none; border-bottom: dotted #003366 1px; }
+#main A:active { color: white; }
+#main A:hover { color: white; }
+ 
+.at {
+    padding-top: 8px;
+    text-align: right;
+    clear: both;
+}
+.at a { color: #933; padding: 0px 18px; }
+.at a:hover { color: white; }
+.at b { color: #939; }
+ 
+.entry {
+    color: #435;
+    font: normal 14px/16px verdana, geneva, sans-serif;
+    line-height: 200%;
+    padding-left: 25px;
+    padding-right: 25px;
+}
+ 
+.entry h1 {
+    margin: 0px;
+    padding: 0px;
+}
+ 
+.entry p {
+    line-height: 160%;
+    margin-bottom: 20px;
+}
+ 
+.entry img {
+    margin: 0px 9px 0px 5px;
+}
+ 
+.tagline {
+    font: italic 12px/14px verdana, geneva, sans-serif;
+    margin: 0px;
+    padding: 0px;
+}
+ 
+.also {
+    color: #326;
+    font: bold 12px/14px verdana, geneva, sans-serif;
+}
+ 
+.further {
+    color: #357;
+    background-color: #F1F9E1;
+    border: solid 1px #E5E9D2;
+    margin: 15px;
+    padding: 5px;
+    font-size: small;
+}
+ 
+/* (Poignant) Guide code colorings */
+blockquote {
+    color: #357;
+}
+blockquote code {
+    background-color: #FFF1F5;
+    color: #936;
+    font-weight: bold;
+    padding: 5px;
+    line-height: 170%;
+}
+code {
+    background-color: #FFF1F5;
+    color: #936;
+    font-weight: bold;
+    padding: 2px;
+    line-height: 170%;
+    white-space: nowrap;
+}
+pre {
+    border: solid 1px #936;
+    background-color: #FFF1F5;
+    color: #936;
+    font-weight: bold;
+    margin: 5px 22px 5px 2px;
+    padding: 3px;
+    line-height: 170%;
+    width: 95%;
+}
+ 
+#minibanner {
+    background-color: #E8FFF9;
+    width:99%;
+    font-family: Baskerville, Georgia, "Times New Roman", serif;
+    font-size: 9pt;
+    color:#333;
+    padding: 3px 6px;
+    margin: 0;
+    padding-bottom: 2px;
+    margin-bottom: 20px;
+    border-bottom: dotted 1px black;
+}
+ 
+#minibanner p {
+    padding: 0;
+    margin: 3px 0;
+}
+
