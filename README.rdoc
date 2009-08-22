@@ -1,3 +1,14 @@
 = _why's metaid
 
 MetAid is a tiny library for aiding metaprogramming.
+
+---
+
+Fetched mostly from archive.org's <em>Wayback Machine</em>.
+
+The library is how it was on July 16, 2006. The <em>Wayback Machine</em> doesn't have a later version.
+
+Copyright \&copy; 'why the lucky stiff' 2005-2009
+
+Wayback Machine:: http://www.archive.org/web/web.php
+SVN checkout:: http://web.archive.org/web/20060716111950/http://code.whytheluckystiff.net/svn/metaid/trunk/metaid.rb
