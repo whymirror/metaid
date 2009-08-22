@@ -1,6 +1,5 @@
 # This gemspec is not recommended for install and is here
 # as a stub to remind me that it's an option someday...
-require 'rubygems'
 spec = Gem::Specification.new do |s|
 	s.name = 'metaid'
 	s.version = "1.0.1"
