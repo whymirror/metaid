@@ -8,7 +8,8 @@ Gem::Specification.new do |s|
 
   s.description = 'metaid is a tiny library for aiding metaprogramming'
   s.summary = 'metaid is a tiny library for aiding metaprogramming'
-  s.files = ['metaid.rb']
+  s.files = ["README.rdoc",
+             "lib/metaid.rb"]
 
   s.has_rdoc = true
 end
