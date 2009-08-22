@@ -21,5 +21,3 @@ end
 class Class
     alias class_def module_def
 end
-
-
