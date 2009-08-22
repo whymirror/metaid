@@ -5,7 +5,7 @@ Gem::Specification.new do |s|
   s.authors = ["why the lucky stiff",
                "Danny Tatom"]
   s.email = 'dannytatom@gmail.com'
-  s.homepage = 'http://dannytatom.github.com/metaid'
+  s.homepage = 'http://github.com/dannytatom/metaid'
 
   s.description = 'metaid is a tiny library for aiding metaprogramming'
   s.summary = 'metaid is a tiny library for aiding metaprogramming'

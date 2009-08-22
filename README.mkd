@@ -4,7 +4,7 @@ metaid is a tiny library for aiding metaprogramming.
 
 ## Documentation
 
-_why's article [Seeing Metaclasses Clearly](http://dannytatom.com/github/metaid) is the closest to "docs" available for metaid.
+_why's article [Seeing Metaclasses Clearly](http://dannytatom.github.com/metaid) is the closest to "docs" available for metaid.
 
 ## Authors
 
