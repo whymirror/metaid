@@ -1,0 +1,12 @@
+# metaid
+
+metaid is a tiny library for aiding metaprogramming.
+
+## Documentation
+
+_why's article [Seeing Metaclasses Clearly](http://dannytatom.com/github/metaid) is the closest to "docs" available for metaid.
+
+## Authors
+
+metaid was originally created by [why the lucky stiff](http://en.wikipedia.org/wiki/Why_the_lucky_stiff),
+but is maintained by [Danny Tatom](http://dannytatom.com) as of August 22, 2009.
