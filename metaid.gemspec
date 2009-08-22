@@ -1,6 +1,6 @@
 Gem::Specification.new do |s|
   s.name = 'metaid'
-  s.version = '1.0.1'
+  s.version = '1.0.2'
 
   s.author = 'why the lucky stiff'
   s.email = 'why@ruby-lang.org'
