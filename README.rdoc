@@ -6,6 +6,6 @@ metaid is a tiny library for aiding metaprogramming.
 
 _why's article `Seeing Metaclasses Clearly` is the closest to "docs" available for metaid. It's a good read, though, so check it out:
 
-Seeing Metaclasses Clearly:: http://dannytatom.github.com/metaid/
+Seeing Metaclasses Clearly:: http://dannytatom.github.com/metaid
 
 Copyright (c) 'why the lucky stiff' 2005-2009
