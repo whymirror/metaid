@@ -1,4 +1,4 @@
-# Metaid == a few simple metaclass helper
+# metaid == a few simple metaclass helpers
 # (See http://whytheluckystiff.net/articles/seeingMetaclassesClearly.html.)
 class Object
     # The hidden singleton lurks behind everyone

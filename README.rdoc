@@ -1,6 +1,6 @@
 = _why's metaid
 
-MetAid is a tiny library for aiding metaprogramming.
+metaid is a tiny library for aiding metaprogramming.
 
 ---
 
