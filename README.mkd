@@ -1,6 +1,6 @@
 # metaid
 
-metaid is a tiny library for aiding metaprogramming.
+A tiny library for aiding metaprogramming.
 
 ## Documentation
 

@@ -3,6 +3,7 @@
 # a few simple metaclass helpers
 # 
 # http://github.com/dannytatom/metaid
+
 class Object
   # The hidden singleton lurks behind everyone
   def metaclass; class << self; self; end; end
